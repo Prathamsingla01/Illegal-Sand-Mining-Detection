@@ -1,14 +1,18 @@
 # React
 frontend/node_modules/
 frontend/dist/
+node_modules/
+dist/
 
 # Python
 backend/venv/
 backend/__pycache__/
 *.pyc
+*.db
 
 # Environment variables
 .env
+.env.*
 *.env
 
 # OS
